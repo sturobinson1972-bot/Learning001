@@ -11,4 +11,18 @@ A   7	5616	274	C3 REMOVE CARD 	0.00	0	               	20261105	163727	OPER-05   
 A   7	5616	274	C3 PRINTING    	0.00	0	               	20261105	163800	OPER-05   	TILL1     	 	90
 A   7	5616	272	C3 PED SIGN RQD	0.00	0	               	20261105	163800	OPER-05   	TILL1     	 	90
 A   7	5616	258	Verify:402     	0.00	0	               	20261105	163800	OPER-05   	TILL1     	 	90
-A   7	5616	274	C3          
+A   7	5616	500	Pr@DispScrnRP  	0.00	0	               	20261105	163800	OPER-05   	TILL1     	 	90
+A   7	5616	272	C3 PED SIGN RQD	0.00	0	               	20261105	163800	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 START NOCB  	0.00	0	               	20261105	163716	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 PLEASE WAIT 	0.00	0	               	20261105	163719	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 AUTHORISATIO	0.00	0	               	20261105	163724	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 AUTH CODE:0A	0.00	0	               	20261105	163725	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 REMOVE CARD 	0.00	0	               	20261105	163727	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 PRINTING    	0.00	0	               	20261105	163800	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3    0.00	0	               	20261105	163811	OPER-05   	TILL1     	 	90      
+A   7	5616	274	C3          0.00	0	               	20261105	163821	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3          0.00	0	               	20261105	163832	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 00000402 PLU	0.00	0	               	20261105	163838	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 APPROVED    	0.00	0	               	20261105	163838	OPER-05   	TILL1     	 	90
+A   7	5616	274	C3 PRINTING    	0.00	0	               	20261105	163839	OPER-05   	TILL1     	 	90
+A   7	5616	500	Pr@DispScrnRP  	0.00	0	               	20261105	163800	OPER-05   	TILL1     	 	90              
